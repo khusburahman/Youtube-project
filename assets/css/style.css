@@ -1,0 +1,101 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.list1 a{
+    font-size: 30px;
+    color: black !important;
+}
+.navbar-brand i{
+    color: red !important;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.form-control{
+    width: 600px;
+    margin-left: 100px;
+}
+.form-control button i{
+    margin-left: 40px;
+    color: black;
+}
+.img img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.video{
+    margin-right: 20px;
+}
+.notification{
+    margin-right: 20px;
+
+}
+.img{
+    margin-right: 20px;
+}
+
+/*sidenav start*/
+
+
+.icon1{
+    font-size: 20px;
+    color: black;
+    margin-left: 15px;
+   
+
+}
+.text1{
+    margin-left:15px;
+    font-size: 15px;
+  
+}
+.pragraph p{
+    font-size: 20px;
+    margin-left: 15px;
+    
+}
+.icon1 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.full-sidenav{
+    overflow-y: scroll;
+    width: 100%;
+    height: 100vh;
+}
+.text1 a{
+    text-decoration: none;
+    color: black;
+}
+.header-link a{
+    text-decoration: none;
+    color: black;
+}
+.channel-photo img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.channel-name span{
+    font-size: 12px;
+    line-height: 5px;
+}
+.like i{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.like span{
+    margin-left: 20px;
+}
+
+.shorts-v{
+    color: red;
+}
+.video-shors video{
+    height: 300px;
+    width: 200px;
+}
